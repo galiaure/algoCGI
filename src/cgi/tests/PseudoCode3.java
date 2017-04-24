@@ -9,5 +9,7 @@ public class PseudoCode3 extends Test {
 		
 		System.out.println("Valeur de la variable " + "alphanumérique chaine3: "+chaine3);
 		
+		
+		
 	}
 }
