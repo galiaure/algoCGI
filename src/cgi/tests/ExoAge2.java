@@ -21,5 +21,6 @@ public class ExoAge2 {
 		case 11: System.out.println("Votre enfant est Minime"); break;
 		default: System.out.println("Votre enfant est Cadet");
 		}
+		sc.close();
 	}
 }
